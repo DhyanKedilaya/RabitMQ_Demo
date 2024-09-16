@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RabitMqProductAPI",
+    "\\RabitMqProductAPI\\Controllers",
+    "\\RabitMqProductAPI\\Data",
+    "\\RabitMqProductAPI\\Migrations",
+    "\\RabitMqProductAPI\\Models",
+    "\\RabitMqProductAPI\\obj",
+    "\\RabitMqProductAPI\\Properties",
+    "\\RabitMqProductAPI\\RabitMQ",
+    "\\RabitMqProductAPI\\Services"
+  ],
+  "SelectedNode": "\\RabitMqProductAPI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

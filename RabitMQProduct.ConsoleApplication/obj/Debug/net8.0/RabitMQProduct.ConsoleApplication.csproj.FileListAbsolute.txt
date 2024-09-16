@@ -1,0 +1,17 @@
+D:\RabitMQ_test_project\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net8.0\RabitMQProduct.ConsoleApplication.exe
+D:\RabitMQ_test_project\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net8.0\RabitMQProduct.ConsoleApplication.deps.json
+D:\RabitMQ_test_project\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net8.0\RabitMQProduct.ConsoleApplication.runtimeconfig.json
+D:\RabitMQ_test_project\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net8.0\RabitMQProduct.ConsoleApplication.dll
+D:\RabitMQ_test_project\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net8.0\RabitMQProduct.ConsoleApplication.pdb
+D:\RabitMQ_test_project\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\RabitMQ_test_project\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net8.0\RabitMQProduct.ConsoleApplication.csproj.AssemblyReference.cache
+D:\RabitMQ_test_project\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net8.0\RabitMQProduct.ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabitMQ_test_project\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net8.0\RabitMQProduct.ConsoleApplication.AssemblyInfoInputs.cache
+D:\RabitMQ_test_project\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net8.0\RabitMQProduct.ConsoleApplication.AssemblyInfo.cs
+D:\RabitMQ_test_project\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net8.0\RabitMQProduct.ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\RabitMQ_test_project\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net8.0\RabitMQP.5D9199EB.Up2Date
+D:\RabitMQ_test_project\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net8.0\RabitMQProduct.ConsoleApplication.dll
+D:\RabitMQ_test_project\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net8.0\refint\RabitMQProduct.ConsoleApplication.dll
+D:\RabitMQ_test_project\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net8.0\RabitMQProduct.ConsoleApplication.pdb
+D:\RabitMQ_test_project\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net8.0\RabitMQProduct.ConsoleApplication.genruntimeconfig.cache
+D:\RabitMQ_test_project\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net8.0\ref\RabitMQProduct.ConsoleApplication.dll
